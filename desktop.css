@@ -1,0 +1,12 @@
+@media (min-width: 1440px)
+{@font-face{
+        font-family: EB Garamond;
+        src: url(EBGaramond-Regular.ttf);
+}}
+
+h4{
+        width: 50%;
+}
+.activity {
+        width: 60%
+    }

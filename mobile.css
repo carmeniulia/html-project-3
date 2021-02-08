@@ -1,0 +1,14 @@
+@media (max-width: 360px)
+{}
+
+h4 {
+    width: 100%;
+}
+
+p,h2 {
+    width: 100%;
+}
+
+.activity {
+    width: 80%;
+}
